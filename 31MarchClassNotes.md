@@ -17,3 +17,8 @@
   - Push actually pushes the changes
   - Branches and forks can be translated to hard links and soft links in Linux
   - Merging repos to be linked together
+# DEVNET Associate Objectives and Concepts
+  - DevOps work
+  - Code REST APIs and using Python to automate networks
+  - Changing the world of networking from command line to automation
+  - Github can be the outlet to helping DevOps do what they do best
