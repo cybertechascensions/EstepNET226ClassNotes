@@ -22,3 +22,6 @@
   - Code REST APIs and using Python to automate networks
   - Changing the world of networking from command line to automation
   - Github can be the outlet to helping DevOps do what they do best
+# Setting up AWS Ubuntu Instance
+  - Using Puttygen to generate a private key pair and be able to access it
+  - In Putty, go down to Auth and add the private key pair then you can access the machine through the DNS domain name given
